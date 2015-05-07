@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Minun hieno featureni feature.
- */
-
-include_once 'minun_hieno_featureni.features.inc';
